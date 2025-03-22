@@ -71,7 +71,7 @@ Are you as excited about **AI, innovation, and game development** as I am? Let�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rejoy-v-thomas-78b2b62b4)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rejoy12)  
-📬 Email: [rejoyvt6434@gmail.com](mailto:your-email@example.com)
+📬 You Can reach me: [rejoyvt6434@gmail.com](mailto:your-email@example.com)
 
 ---
 
