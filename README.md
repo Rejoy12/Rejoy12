@@ -32,9 +32,9 @@ Hi, I'm **Rejoy V Thomas**—a creative tech enthusiast and problem-solver, pass
 ---
 
 ## 📊 **GitHub Stats**  
-![Rejoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RejoyThomas&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RejoyThomas&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=RejoyThomas&theme=radical)  
+![Rejoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rejoy12&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rejoy12&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rejoy12&theme=radical)  
 
 ---
 
