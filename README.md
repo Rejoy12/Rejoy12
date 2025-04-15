@@ -1,8 +1,5 @@
 # 🚀 Welcome to Rejoy's Hub of Innovation! 👾  
 
-<div align="center">
-  <img src="https://github.com/Rejoy12.png" width="150" style="border-radius: 50%;" />
-</div>
 
 Hi, I'm **Rejoy V Thomas**—a creative tech enthusiast passionate about **AI-driven solutions, game development, and graphics programming using C++!** 🌟  
 
