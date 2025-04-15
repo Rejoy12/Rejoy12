@@ -19,7 +19,7 @@ Hi, I'm **Rejoy V Thomas**—a creative tech enthusiast passionate about **AI-dr
 💡 **AI-Powered Gameplay**: Smart AI using the **Minimax Algorithm** to challenge players.  
 🎨 **Dynamic Themes**: Switch between **Light and Dark modes**.  
 🕹️ **User-Friendly Interface**: Java Swing-powered design.  
-👉 **Explore here**: [Tic-Tac-Toe with AI](https://github.com/Rejoy12/TicTacToe-AI)  
+👉 **Explore here**: [Tic-Tac-Toe with AI](https://github.com/Rejoy12/TicTacToe)  
 
 ### 📡 **CRT Diagram: A Turbo C++ Visual Masterpiece**  
 🖥️ **Artistic Visualization**: A sleek, **graphics-based CRT diagram** using **C++ (`graphics.h`)**.  
