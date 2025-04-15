@@ -26,7 +26,7 @@ Hi, I'm **Rejoy V Thomas**—a creative tech enthusiast passionate about **AI-dr
 💡 **Educational Impact**: Detailed labels explaining CRT components.  
 🎨 **Innovative Design**: Captures the power of C++ graphics programming with **striking visuals**.  
 📚 **Perfect for Students**: An engaging way to learn CRT technology.  
-👉 **Discover the code**: [CRT Diagram](https://github.com/Rejoy12/CRT-Diagram)  
+👉 **Discover the code**: [CRT Diagram](https://github.com/Rejoy12/CRT)  
 
 ---
 
