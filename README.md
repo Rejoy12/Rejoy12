@@ -57,6 +57,6 @@ Hi, I'm **Rejoy V Thomas**—a creative tech enthusiast passionate about **AI-dr
 ---
 
 ## 🌐 Let’s Connect!  
-📬 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/rejoythomas) | [GitHub](https://github.com/Rejoy12) | [Email](mailto:rejoyvthomas@example.com)  
+📬 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/rejoyvthomas) | [GitHub](https://github.com/Rejoy12) | [Email](rejoyvt6434@gmail.com)  
 ⚡ **Fun Fact**: I built a **Tic-Tac-Toe AI** so strategic, even I need my best moves to beat it!  
 
