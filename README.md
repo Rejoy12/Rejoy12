@@ -1,7 +1,7 @@
 # 🚀 Welcome to Rejoy's Hub of Innovation! 👾  
 
 
-Hi, I'm **Rejoy V Thomas**—a creative tech enthusiast passionate about **AI-driven solutions, game development, and graphics programming using C++!** 🌟  
+Hi, I'm **Rejoy V Thomas**—a creative tech enthusiast passionate about **AI-driven solutions, game development, and graphics programming using C++**  
 
 ---
 
