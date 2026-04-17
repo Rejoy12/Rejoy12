@@ -8,7 +8,7 @@ Hi, I'm **Rejoy V Thomas** — a developer passionate about building **AI-driven
 
 ## 🌟 About Me  
 
-💻 B.Tech CSE (2nd Year)  
+💻 B.Tech CSE (3rd Year)  
 🧠 Strong in **Data Structures, Algorithms & Problem Solving**  
 🎮 Creator of the **RE-Series (Game Projects Collection)**  
 ⚙️ Focused on **AI Logic + 3D Graphics + Real-Time Interaction**  
@@ -29,7 +29,7 @@ A modern, logic-enhanced version of the classic Snake game
 - 🎯 Inspired by Nokia Snake with intelligent upgrades  
 
 **Tech Stack:** HTML • CSS • JavaScript • Three.js  
-👉 Add GitHub Link | Add Gameplay GIF  
+👉 https://revok-rejoy.vercel.app/  
 
 ---
 
@@ -41,7 +41,7 @@ A real-time 3D racing game with intelligent AI opponents
 - 🌐 Interactive 3D environment  
 
 **Tech Stack:** HTML • CSS • JavaScript • Three.js  
-👉 Add GitHub Link | Add Gameplay GIF  
+👉 https://rex-20-rejoy.vercel.app/  
 
 ---
 
@@ -53,7 +53,7 @@ A logic-focused game powered by strategic AI
 - 🎨 Clean and responsive UI  
 
 **Tech Stack:** HTML • CSS • JavaScript  
-👉 Add GitHub Link | Add Gameplay GIF  
+👉 https://rehu-rejoy.vercel.app/ 
 
 ---
 
@@ -65,7 +65,7 @@ A futuristic simulation of an AI-powered assistant
 - 🏠 Simulates real-world automation  
 
 **Tech Stack:** HTML • CSS • JavaScript • Three.js  
-👉 Add GitHub Link | Add Demo  
+👉 https://rehup-rejoy.vercel.app/ 
 
 ---
 
