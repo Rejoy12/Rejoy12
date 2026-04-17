@@ -1,62 +1,130 @@
-# 🚀 Welcome to Rejoy's Hub of Innovation! 👾  
+# 🚀 Rejoy V Thomas | AI • Games • Graphics 👾  
 
+Hi, I'm **Rejoy V Thomas** — a developer passionate about building **AI-driven systems, interactive games, and 3D web experiences**.  
 
-Hi, I'm **Rejoy V Thomas**—a creative tech enthusiast passionate about **AI-driven solutions, game development, and graphics programming using C++**  
-
----
-
-## 🌟 Who Am I?  
-💻 **B.Tech CSE 2nd-year student**, exploring AI, game development, and graphics-based creativity.  
-🎮 **Game creator** blending **strategy with innovation**.  
-🧠 **AI & Graphics enthusiast**, crafting smart algorithms and **visually compelling projects**.  
-✨ On a mission to redefine **human–machine interaction** with **Java, Python, and C++**.  
+💡 I specialize in combining **logic, algorithms, and visuals** to create engaging and intelligent applications.
 
 ---
 
-## 🔥 Star Projects  
+## 🌟 About Me  
 
-### 🎮 **Tic-Tac-Toe: The AI Challenge**  
-💡 **AI-Powered Gameplay**: Smart AI using the **Minimax Algorithm** to challenge players.  
-🎨 **Dynamic Themes**: Switch between **Light and Dark modes**.  
-🕹️ **User-Friendly Interface**: Java Swing-powered design.  
-👉 **Explore here**: [Tic-Tac-Toe with AI](https://github.com/Rejoy12/TicTacToeGame)  
-
-### 📡 **CRT Diagram: A Turbo C++ Visual Masterpiece**  
-🖥️ **Artistic Visualization**: A sleek, **graphics-based CRT diagram** using **C++ (`graphics.h`)**.  
-💡 **Educational Impact**: Detailed labels explaining CRT components.  
-🎨 **Innovative Design**: Captures the power of C++ graphics programming with **striking visuals**.  
-📚 **Perfect for Students**: An engaging way to learn CRT technology.  
-👉 **Discover the code**: [CRT Diagram](https://github.com/Rejoy12/CRT)  
+💻 B.Tech CSE (2nd Year)  
+🧠 Strong in **Data Structures, Algorithms & Problem Solving**  
+🎮 Creator of the **RE-Series (Game Projects Collection)**  
+⚙️ Focused on **AI Logic + 3D Graphics + Real-Time Interaction**  
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rejoy12&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rejoy12&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=Rejoy12&theme=radical" />
-</div>
+## 🎮 RE-Series: Intelligent Game & Simulation Systems  
+
+💡 A collection of projects blending **AI logic, gameplay mechanics, and immersive visuals**.
+
+---
+
+### 🐍 REVOK — AI Snake Engine  
+A modern, logic-enhanced version of the classic Snake game  
+
+- 🧠 Smart movement & collision logic  
+- ⚡ Dynamic growth system  
+- 🎯 Inspired by Nokia Snake with intelligent upgrades  
+
+**Tech Stack:** HTML • CSS • JavaScript • Three.js  
+👉 Add GitHub Link | Add Gameplay GIF  
+
+---
+
+### 🏎️ REX — 3D AI Racing Simulator  
+A real-time 3D racing game with intelligent AI opponents  
+
+- 🤖 AI-controlled opponent cars  
+- 🪙 Coin collection & scoring system  
+- 🌐 Interactive 3D environment  
+
+**Tech Stack:** HTML • CSS • JavaScript • Three.js  
+👉 Add GitHub Link | Add Gameplay GIF  
+
+---
+
+### ❌⭕ REHU — AI Tic-Tac-Toe System  
+A logic-focused game powered by strategic AI  
+
+- 🧠 AI opponent using Minimax logic  
+- 🎯 Smart and competitive gameplay  
+- 🎨 Clean and responsive UI  
+
+**Tech Stack:** HTML • CSS • JavaScript  
+👉 Add GitHub Link | Add Gameplay GIF  
+
+---
+
+### 🤖 REHUP — 3D Smart Robot Assistant  
+A futuristic simulation of an AI-powered assistant  
+
+- 🧠 Task-based intelligent behavior  
+- 🌌 Interactive 3D robot system  
+- 🏠 Simulates real-world automation  
+
+**Tech Stack:** HTML • CSS • JavaScript • Three.js  
+👉 Add GitHub Link | Add Demo  
+
+---
+
+## 🔥 Featured Projects  
+
+### 🎮 Tic-Tac-Toe: The AI Challenge  
+- AI powered by **Minimax Algorithm**  
+- Light/Dark mode with Java Swing UI  
+
+🔗 https://github.com/Rejoy12/TicTacToeGame  
+
+---
+
+### 📡 CRT Diagram — C++ Graphics Project  
+- Built using **graphics.h**  
+- Educational and visual representation  
+
+🔗 https://github.com/Rejoy12/CRT  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></td>
-  </tr>
-</table>
+**Languages:**  
+`Java` • `Python` • `C++`  
+
+**Web & Graphics:**  
+`HTML` • `CSS` • `JavaScript` • `Three.js`  
+
+**Core Skills:**  
+`Data Structures` • `Algorithms` • `Game Logic` • `AI Basics`  
 
 ---
 
-## 🌐 Let’s Connect!  
-📬 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/rejoyvthomas) | [GitHub](https://github.com/Rejoy12) | [Email](rejoyvt6434@gmail.com)  
-⚡ **Fun Fact**: I built a **Tic-Tac-Toe AI** so strategic, even I need my best moves to beat it!  
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rejoy12&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rejoy12&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Rejoy12&theme=radical" />
+</p>
+
+---
+
+## 🎯 Vision  
+
+🚀 To build systems that combine:  
+- 🧠 Intelligence (AI & Algorithms)  
+- ⚡ Performance (Efficient Code)  
+- 🎮 Experience (Interactive Design & Graphics)  
+
+---
+
+## 🌐 Connect With Me  
+
+📬 LinkedIn: https://www.linkedin.com/in/rejoyvthomas  
+💻 GitHub: https://github.com/Rejoy12  
+📧 Email: rejoyvt6434@gmail.com  
+
+---
+
+⚡ *“I don’t just build projects — I build logic, systems, and experiences.”*
