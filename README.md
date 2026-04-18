@@ -121,7 +121,7 @@ A futuristic simulation of an AI-powered assistant
 
 ## 🌐 Connect With Me  
 
-📬 LinkedIn: https://www.linkedin.com/in/rejoyvthomas  
+📬 LinkedIn: https://www.linkedin.com/in/rejoy-v-thomas-78b2b62b4/ 
 💻 GitHub: https://github.com/Rejoy12  
 📧 Email: rejoyvt6434@gmail.com  
 
