@@ -28,9 +28,8 @@ A modern, logic-enhanced version of the classic Snake game
 - ⚡ Dynamic growth system  
 - 🎯 Inspired by Nokia Snake with intelligent upgrades  
 
-**Tech Stack:** HTML • CSS • JavaScript • Three.js  
-👉 https://revok-rejoy.vercel.app/  
-
+**Tech Stack:** HTML5 | CSS3 | JavaScript (Canvas API) | Node.js | Express.js | MongoDB  
+👉 https://revok-by-rejoy.vercel.app/
 ---
 
 ### 🏎️ REX — 3D AI Racing Simulator  
