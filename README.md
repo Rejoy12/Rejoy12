@@ -1,8 +1,6 @@
-<<!-- Premium Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff7ff,100:1e3cff&height=220&section=header&text=Rejoy%20V%20Thomas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Rejoy%20V%20Thomas&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Game%20Systems%20%7C%203D%20Engineering&descSize=18&descAlignY=60" />
 </p>
-
 <!-- Clean Title Identity -->
 <h3 align="center">
   AI • Game Systems • 3D Web Engineering 👾
