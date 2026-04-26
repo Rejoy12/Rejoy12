@@ -1,7 +1,15 @@
-# 🚀 Rejoy V Thomas | AI • Games • Graphics 👾  
+<h1 align="center">🚀 Rejoy V Thomas</h1>
+
+<h3 align="center">AI • Games • Graphics 👾</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Interactive+3D+Web+Experiences;AI+Logic+%2B+Game+Systems+Developer;Turning+Ideas+into+Real-Time+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0FF7FF&center=true&vCenter=true&width=700&lines=Building+Interactive+3D+Web+Experiences;AI+Logic+%2B+Game+Systems;Real-Time+Applications+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-3D%20%2F%20AI%20%2F%20Web-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-JavaScript%20%7C%20Python-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%F0%9F%9A%80-success?style=for-the-badge" />
 </p>
 
 ---
