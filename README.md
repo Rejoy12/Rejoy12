@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Rejoy%20V%20Thomas&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Game%20Systems%20%7C%203D%20Engineering&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f0f1a,100:000000&height=260&section=header&text=REJOY%20V%20THOMAS&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20GAME%20SYSTEMS%20%7C%203D%20ENGINEERING&descSize=20&descAlignY=65" />
 </p>
-
 <!-- Typing Animation (Balanced, not flashy) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=0FF7FF&center=true&vCenter=true&width=650&lines=Building+Real-Time+3D+Experiences;Designing+Intelligent+Game+Systems;Creating+Interactive+Web+Applications" />
