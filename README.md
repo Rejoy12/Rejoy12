@@ -1,18 +1,33 @@
-<h1 align="center">🚀 Rejoy V Thomas</h1>
-
-<h3 align="center">AI • Games • Graphics 👾</h3>
-
+<<!-- Premium Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0FF7FF&center=true&vCenter=true&width=700&lines=Building+Interactive+3D+Web+Experiences;AI+Logic+%2B+Game+Systems;Real-Time+Applications+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff7ff,100:1e3cff&height=220&section=header&text=Rejoy%20V%20Thomas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<!-- Clean Title Identity -->
+<h3 align="center">
+  AI • Game Systems • 3D Web Engineering 👾
+</h3>
+
+<!-- Typing Animation (Balanced, not flashy) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-3D%20%2F%20AI%20%2F%20Web-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-JavaScript%20%7C%20Python-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%F0%9F%9A%80-success?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=0FF7FF&center=true&vCenter=true&width=650&lines=Building+Real-Time+3D+Experiences;Designing+Intelligent+Game+Systems;Creating+Interactive+Web+Applications" />
+</p>
+
+<!-- Premium Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-3D%20%2F%20AI%20%2F%20Systems-0ff7ff?style=for-the-badge&logo=codeforces&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Core-JavaScript%20%7C%20Python-111111?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-1e90ff?style=for-the-badge"/>
 </p>
 
 ---
+
+<!-- Short Powerful Intro -->
+<p align="center">
+  I build <b>interactive systems</b> where <b>logic meets visuals</b> —  
+  combining <b>AI, real-time rendering, and gameplay mechanics</b>  
+  to create engaging and high-performance applications.
+</p>
 
 Hi, I'm **Rejoy V Thomas** — a developer focused on building **interactive web applications, intelligent systems, and real-time 3D experiences**.  
 
