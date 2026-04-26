@@ -1,86 +1,85 @@
 # 🚀 Rejoy V Thomas | AI • Games • Graphics 👾  
 
-Hi, I'm **Rejoy V Thomas** — a developer passionate about building **AI-driven systems, interactive games, and 3D web experiences**.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Interactive+3D+Web+Experiences;AI+Logic+%2B+Game+Systems+Developer;Turning+Ideas+into+Real-Time+Applications" />
+</p>
 
-💡 I specialize in combining **logic, algorithms, and visuals** to create engaging and intelligent applications.
+---
+
+Hi, I'm **Rejoy V Thomas** — a developer focused on building **interactive web applications, intelligent systems, and real-time 3D experiences**.  
+
+🚀 I enjoy creating applications that combine **logic, performance, and visual experience** to deliver engaging and responsive systems.
 
 ---
 
 ## 🌟 About Me  
 
 💻 B.Tech CSE (3rd Year)  
-🧠 Strong in **Data Structures, Algorithms & Problem Solving**  
 🎮 Creator of the **RE-Series (Game Projects Collection)**  
 ⚙️ Focused on **AI Logic + 3D Graphics + Real-Time Interaction**  
+🧠 Familiar with **Data Structures & Algorithms; actively improving problem-solving skills**  
 
 ---
 
 ## 🎮 RE-Series: Intelligent Game & Simulation Systems  
 
-💡 A collection of projects blending **AI logic, gameplay mechanics, and immersive visuals**.
+💡 A collection of projects combining **AI logic, gameplay systems, and immersive visuals**.
 
 ---
 
-### 🐍 REVOK — AI Snake Engine  
-A modern, logic-enhanced version of the classic Snake game  
-
-- 🧠 Smart movement & collision logic  
-- ⚡ Dynamic growth system  
-- 🎯 Inspired by Nokia Snake with intelligent upgrades  
+### 🐍 REVOK — Smart Snake Engine  
+- 🧠 Intelligent movement & collision logic  
+- ⚡ Smooth gameplay with dynamic growth  
+- 🎯 Inspired by classic Snake with modern enhancements  
 
 **Tech Stack:** HTML5 | CSS3 | JavaScript (Canvas API) | Node.js | Express.js | MongoDB  
 👉 https://revok-by-rejoy.vercel.app/
+
 ---
 
-### 🏎️ REX — 3D AI Racing Simulator  
-A real-time 3D racing game with intelligent AI opponents  
-
-- 🤖 AI-controlled opponent cars  
-- 🪙 Coin collection & scoring system  
-- 🌐 Interactive 3D environment  
+### 🏎️ REX — 3D Racing Simulation  
+- 🤖 AI-controlled opponent vehicles  
+- 🪙 Score and progression system  
+- 🌐 Real-time 3D environment using Three.js  
 
 **Tech Stack:** HTML • CSS • JavaScript • Three.js  
 👉 https://rex-20-rejoy.vercel.app/  
 
 ---
 
-### ❌⭕ REHU — AI Tic-Tac-Toe System  
-A logic-focused game powered by strategic AI  
-
+### ❌⭕ REHU — AI Tic-Tac-Toe  
 - 🧠 AI opponent using Minimax logic  
-- 🎯 Smart and competitive gameplay  
-- 🎨 Clean and responsive UI  
+- 🎯 Competitive gameplay  
+- 🎨 Clean UI  
 
 **Tech Stack:** HTML • CSS • JavaScript  
 👉 https://rehu-rejoy.vercel.app/ 
 
 ---
 
-### 🤖 REHUP — 3D Smart Robot Assistant  
-A futuristic simulation of an AI-powered assistant  
-
-- 🧠 Task-based intelligent behavior  
-- 🌌 Interactive 3D robot system  
-- 🏠 Simulates real-world automation  
+### 🤖 REHUP — 3D Robot Assistant  
+- 🧠 Task-based interaction system  
+- 🌌 Interactive 3D environment  
+- 🏠 Simulates assistant-like behavior  
 
 **Tech Stack:** HTML • CSS • JavaScript • Three.js  
 👉 https://rehup-rejoy.vercel.app/ 
 
 ---
 
-## 🔥 Featured Projects  
+## 🔥 Featured Work  
 
-### 🎮 Tic-Tac-Toe: The AI Challenge  
-- AI powered by **Minimax Algorithm**  
-- Light/Dark mode with Java Swing UI  
+### 🎮 Tic-Tac-Toe (Java Swing)  
+- Implemented Minimax-based AI  
+- Includes UI with light/dark mode  
 
 🔗 https://github.com/Rejoy12/TicTacToeGame  
 
 ---
 
-### 📡 CRT Diagram — C++ Graphics Project  
-- Built using **graphics.h**  
-- Educational and visual representation  
+### 📡 CRT Graphics Project (C++)  
+- Built using graphics.h  
+- Visual representation project  
 
 🔗 https://github.com/Rejoy12/CRT  
 
@@ -89,13 +88,16 @@ A futuristic simulation of an AI-powered assistant
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-`Java` • `Python` • `C++`  
+`JavaScript (ES6)` • `Python (Proficient)` • `C++` • `Java`  
 
-**Web & Graphics:**  
-`HTML` • `CSS` • `JavaScript` • `Three.js`  
+**3D & Web:**  
+`HTML5` • `CSS3` • `Three.js` • `WebGL` • `Canvas API`  
+
+**Backend & Tools:**  
+`Node.js` • `Express.js` • `MongoDB` • `Git` • `GitHub` • `Vercel`  
 
 **Core Skills:**  
-`Data Structures` • `Algorithms` • `Game Logic` • `AI Basics`  
+`Game Logic` • `Rendering Concepts` • `AI Basics` • `Data Structures & Algorithms (Learning)`  
 
 ---
 
@@ -111,16 +113,16 @@ A futuristic simulation of an AI-powered assistant
 
 ## 🎯 Vision  
 
-🚀 To build systems that combine:  
-- 🧠 Intelligence (AI & Algorithms)  
-- ⚡ Performance (Efficient Code)  
-- 🎮 Experience (Interactive Design & Graphics)  
+🚀 I aim to build systems that combine:  
+- 🧠 Intelligent logic  
+- ⚡ Efficient performance  
+- 🎮 Engaging user experiences  
 
 ---
 
 ## 🌐 Connect With Me  
 
-📬 LinkedIn: https://www.linkedin.com/in/rejoy-v-thomas-78b2b62b4/ 
+📬 LinkedIn: https://www.linkedin.com/in/rejoy-v-thomas-78b2b62b4/  
 💻 GitHub: https://github.com/Rejoy12  
 📧 Email: rejoyvt6434@gmail.com  
 
