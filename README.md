@@ -4,7 +4,7 @@
 
 <!-- Typing Animation (Balanced, not flashy) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=0FF7FF&center=true&vCenter=true&width=650&lines=Building+Real-Time+3D+Experiences;Designing+Intelligent+Game+Systems;Creating+Interactive+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Real-Time+3D+Applications;AI+Game+Systems;Interactive+Web+Experiences" />
 </p>
 
 <!-- Premium Badges -->
