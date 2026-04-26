@@ -29,9 +29,7 @@
   to create engaging and high-performance applications.
 </p>
 
-Hi, I'm **Rejoy V Thomas** — a developer focused on building **interactive web applications, intelligent systems, and real-time 3D experiences**.  
 
-🚀 I enjoy creating applications that combine **logic, performance, and visual experience** to deliver engaging and responsive systems.
 
 ---
 
