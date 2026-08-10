@@ -68,6 +68,7 @@
 - 🎨 Clean UI  
 
 **Tech Stack:** HTML5 | CSS3 | JavaScript | Responsive Web Design | Canvas Confetti | HTML5 Audio 
+
 👉 https://rehu-mobilev-rejoy.vercel.app/ 
 
 ---
