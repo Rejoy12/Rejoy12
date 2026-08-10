@@ -48,7 +48,7 @@
 - 🎯 Inspired by classic Snake with modern enhancements  
 
 **Tech Stack:** HTML5 | CSS3 | JavaScript (Canvas API) | Node.js | Express.js | MongoDB  
-👉 https://revok-by-rejoy.vercel.app/
+👉 https://revok-mobilev2-rejoy.vercel.app/
 
 ---
 
@@ -57,7 +57,7 @@
 - 🪙 Score and progression system  
 - 🌐 Real-time 3D environment using Three.js  
 
-**Tech Stack:** HTML • CSS • JavaScript • Three.js  
+**Tech Stack:** HTML5 | CSS3 | JavaScript (Canvas API) | Three.js  
 👉 https://rex-20-rejoy.vercel.app/  
 
 ---
@@ -67,8 +67,8 @@
 - 🎯 Competitive gameplay  
 - 🎨 Clean UI  
 
-**Tech Stack:** HTML • CSS • JavaScript  
-👉 https://rehu-rejoy.vercel.app/ 
+**Tech Stack:** HTML5 | CSS3 | JavaScript | Responsive Web Design | Canvas Confetti | HTML5 Audio 
+👉 https://rehu-mobilev-rejoy.vercel.app/ 
 
 ---
 
