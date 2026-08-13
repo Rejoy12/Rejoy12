@@ -77,13 +77,17 @@
 
 ---
 
-### 🤖 REHUP — 3D Robot Assistant  
-- 🧠 Task-based interaction system  
-- 🌌 Interactive 3D environment  
-- 🏠 Simulates assistant-like behavior  
+### ☀️ REHANA — Solar Game Universe
 
-**Tech Stack:** HTML • CSS • JavaScript • Three.js  
-👉 https://rehup-rejoy.vercel.app/ 
+* 🌌 Interactive 3D solar-system game universe
+* 🪐 Explore planets through an immersive space environment
+* 🎮 Interactive game-based exploration experience
+* 🚀 Real-time browser-based 3D gameplay
+
+**Tech Stack:** HTML5 | CSS3 | JavaScript | Three.js | WebGL
+
+👉 https://rehana-rejoy.vercel.app/
+
 
 ---
 
