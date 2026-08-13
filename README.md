@@ -139,14 +139,16 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rejoy12&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rejoy12&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=Rejoy12&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rejoy12&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rejoy12&layout=compact&theme=radical" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rejoy12&theme=radical" height="180"/>
+</p>
 ---
 
 ## 🎯 Vision  
