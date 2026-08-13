@@ -60,6 +60,7 @@
 * 🏆 Level progression with bonus rewards
 
 **Tech Stack:** HTML5 | CSS3 | JavaScript (Canvas API)
+
 👉 https://remy-mobilev2-rejoy.vercel.app/
 
 
