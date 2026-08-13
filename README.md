@@ -66,6 +66,20 @@
 
 ---
 
+### 🃏 RENO — AI-Powered Card Game
+
+* 🤖 AI-controlled opponents with strategic gameplay
+* ☠️ No Mercy rules with penalty stacking & elimination
+* ⚡ Power-ups including Shield, X-Ray Vision & Sniper Pass
+* 🔥 Fever Mode, special cards & interactive game mechanics
+* 🏆 VS Bots, Pass & Play and leaderboard system
+
+**Tech Stack:** HTML5 | CSS3 | JavaScript
+
+👉 https://reno-mobilev-rejoy.vercel.app/
+
+---
+
 ### ❌⭕ REHU — AI Tic-Tac-Toe  
 - 🧠 AI opponent using Minimax logic  
 - 🎯 Competitive gameplay  
