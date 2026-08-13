@@ -52,13 +52,16 @@
 
 ---
 
-### 🏎️ REX — 3D Racing Simulation  
-- 🤖 AI-controlled opponent vehicles  
-- 🪙 Score and progression system  
-- 🌐 Real-time 3D environment using Three.js  
+### 🚆 REMY — Endless Train Runner
 
-**Tech Stack:** HTML5 | CSS3 | JavaScript (Canvas API) | Three.js  
-👉 https://rex-20-rejoy.vercel.app/  
+* 🏃 Endless runner gameplay with progressive difficulty
+* 🪙 Coin collection, scoring & high-score system
+* 🧲 Power-ups including Magnet & Skateboard
+* 🏆 Level progression with bonus rewards
+
+**Tech Stack:** HTML5 | CSS3 | JavaScript (Canvas API)
+👉 https://remy-mobilev2-rejoy.vercel.app/
+
 
 ---
 
